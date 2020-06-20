@@ -1,1 +1,14 @@
 /* This is where my CSS styles are going to go! */
+.bg-custom{
+  background-color: #296C73 !important;
+}
+.btn-primary{
+  background-color: #85F4CC;
+  border-color: #85F4CC;
+}
+.display-3{
+  color: #EF8062;
+}
+.navbar-brand{
+  color: #85F4CC !important;
+}
